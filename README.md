@@ -51,16 +51,27 @@ The correlation heatmap indicates that there is no strong correlation between cu
 
 ### Modelling
 For modelling we created 3 models a logistic regression model and 2 xgboost models. This is how the logistic regression model performed:
+
 Cross-Validation Accuracy: 0.7824
+
 Cross-Validation Precision: 0.7776
+
 Cross-Validation Recall: 0.7912
+
 Cross-Validation F1 Score: 0.7842
+
 Cross-Validation ROC AUC Score: 0.8441
+
 Test Set Accuracy: 0.7811
+
 Test Set Precision: 0.3869
+
 Test Set Recall: 0.7624
+
 Test Set F1 Score: 0.5133
+
 Test Set ROC AUC Score: 0.8295
+
 
 This is how the confusion matrix and ROC AUC curve looked for the logistic regression model.
 ![alt text](image-7.png)
@@ -72,14 +83,23 @@ The ROC AUC scores indicate that the model has good discriminatory power both du
 
 This is how the first xgboost model performed:
 Cross-Validation Accuracy: 0.9715
+
 Cross-Validation Precision: 0.9804
+
 Cross-Validation Recall: 0.9623
+
 Cross-Validation F1 Score: 0.9713
+
 Cross-Validation ROC AUC Score: 0.9915
+
 XGBoost - Test Set Accuracy: 0.9580
+
 XGBoost - Test Set Precision: 0.9101
+
 XGBoost - Test Set Recall: 0.8020
+
 XGBoost - Test Set F1 Score: 0.8526
+
 XGBoost - Test Set ROC AUC Score: 0.9261
 
 This is how the confusion matrix and ROC AUC curve looked for the first xgboost model.
@@ -90,14 +110,23 @@ The XGBoost model performs impressively, showing high accuracy (97.15%) during c
 
 Finally this is how the second model with the adjusted parameters performed.
 Cross-Validation Accuracy: 0.9726
+
 Cross-Validation Precision: 0.9800
+
 Cross-Validation Recall: 0.9650
+
 Cross-Validation F1 Score: 0.9724
+
 Cross-Validation ROC AUC Score: 0.9919
+
 Test Set Accuracy: 0.9580
+
 Test Set Precision: 0.9011
+
 Test Set Recall: 0.8119
+
 Test Set F1 Score: 0.8542
+
 Test Set ROC AUC Score: 0.9229
 
 The performance is almost identical to the first xgboost model.
