@@ -5,6 +5,10 @@
 
 SyriaTel, a telecommunications company, is facing customer churn issues. Customer churn, the act of customers discontinuing services, is a critical problem impacting revenue. The Chief Marketing Officer aims gain insight from us to predict and reduce churn rates to enhance customer loyalty and revenue growth.
 
+## Business Problem
+
+The primary stakeholder for this project is the Chief Marketing Officer (CMO) of SyriaTel. The CMO is responsible for overseeing the company's marketing strategies and customer retention efforts. By identifying patterns of customer churn, the CMO can implement targeted marketing campaigns and retention strategies to minimize churn rates and enhance customer loyalty.
+
 ### Objectives
 
 1. Identify causes of customer churn.
