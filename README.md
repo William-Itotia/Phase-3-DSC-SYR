@@ -3,7 +3,7 @@
 
 ### Business Understanding
 
-SyriaTel, a telecommunications company, is facing customer churn issues. Customer churn, the act of customers discontinuing services, is a critical problem impacting revenue. The Chief Marketing Officer aims gain insight from us to predict and reduce churn rates to enhance customer loyalty and revenue growth.
+SyriaTel, a telecommunications company, is facing customer churn issues. Customer churn, the act of customers discontinuing services, is a critical problem impacting revenue. The Chief Marketing Officer aims to gain insight from us to predict and reduce churn rates to enhance customer loyalty and revenue growth.
 
 ## Business Problem
 
@@ -35,7 +35,7 @@ Churn Rate by State
 
 Churn Rate by International Plan
 ![alt text](image-2.png)
-International Plans seem to have a higher churn rate than the national one.
+International Plans seem to have a higher churn rate than the national one. Which seems to be very high having a churn rate of 0.04.
 
 Customer service vs churn
 ![alt text](image-3.png)
@@ -43,7 +43,7 @@ The higher the number of customer service calls the less likely a customer is to
 
 Churn Rate by voice mail plan
 ![alt text](image-4.png)
-There seems to be an unusually high number of customers that are on the voice mail plan that churn.
+Customers with a voice plan have a low rate of churn seen at only 0.09 as compared to the ones without a voice mail plan.
 
 Churn Rate over account length
 ![alt text](image-5.png)
